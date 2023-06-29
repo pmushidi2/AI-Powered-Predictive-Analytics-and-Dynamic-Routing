@@ -25,5 +25,5 @@ This project is licensed under the MIT License. See the LICENSE.md file for deta
 
 Contact
 
-If you have any questions or need further clarification, please create an issue or reach out to us at pmushidi@unm.edu.
+If you have any questions or need further clarification, please create an issue or reach out to us at pmushidi@unm.edu
 
