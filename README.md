@@ -12,10 +12,5 @@ Features
 Predictive Analytics: Our solution uses machine learning algorithms to predict future network conditions, helping administrators make informed decisions proactively.
 Dynamic Routing: The dynamic routing mechanism uses AI to optimize routing decisions based on predictive analysis, ensuring efficient resource utilization.
 
-Installation & Usage
-
-Clone this repository
-bash
-Copy code
 git clone https://github.com/pmushidi2/AI-Powered-Predictive-Analytics-and-Dynamic-Routing.git
-Navigate to the directory
+
